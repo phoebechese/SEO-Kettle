@@ -1,5 +1,5 @@
 # SEO Kettle: Helping Houston Businesses Grow Through SEO and AI Search
-In today's competitive digital landscape, having a website is not enough to attract customers and grow a business. Companies need a strong online presence, effective search engine optimization, and a strategy that helps potential customers find their services. SEO Kettle is a search engine optimization agency focused on helping businesses in Houston, Texas, improve their online visibility, generate leads, and connect with customers through Google and AI-powered search platforms.
+In today's competitive digital landscape, having a website is not enough to attract customers and grow a business. Companies need a strong online presence, effective search engine optimization, and a strategy that helps potential customers find their services. [SEO Kettle](https://seokettle.com/) is a search engine optimization agency focused on helping businesses in Houston, Texas, improve their online visibility, generate leads, and connect with customers through Google and AI-powered search platforms.
 
 ## Comprehensive SEO Services
 SEO Kettle offers a range of services designed to improve website performance and search visibility. Its core services include local SEO, technical SEO, AI SEO, Google Business Profile optimization, content creation, keyword research, and link building.
